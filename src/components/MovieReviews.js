@@ -12,7 +12,7 @@ const Review = props => {
   );
 };
 
-
+const MovieReviews = props => {
   return (
     <section className="review-list">
       <ul>
